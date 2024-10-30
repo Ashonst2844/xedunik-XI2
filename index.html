@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Kelas - XEDUNIK (XI-2)</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/29575beb59.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <!-- HOME SECTION -->
+
+    <div id="home">
+        <header>
+            <a id="title" class="title" href="index.html"></a>
+            <nav>
+                <a class="nav-link" href="#home"><i class="fa-solid fa-house"></i> BERANDA</a>
+                <a class="nav-link" href="#tentang"><i class="fa-solid fa-chalkboard-user"></i> GURU-GURU</a>
+                <a class="nav-link" href="#murid"><i class="fa-solid fa-users"></i> MURID</a>
+                <a class="nav-link" href="#gallery"><i class="fa-solid fa-photo-film"></i> DOKUMENTASI</a>
+                <a class="nav-link" href="#medsos"><i class="fa-solid fa-hashtag"></i> MEDIA SOSIAL</a>
+            </nav>
+        </header>
+        <div class="landpage">
+            <img class="img1" src="image/asset-1.png" alt="Asset 1">
+            <h1>XEDUNIK - XI2</h1>
+            <h3>Sebelas Dua Unik</h3>
+        </div>
+    </div>
+
+    <!-- TEACHER SECTION -->
+
+    <div id="tentang">
+        <div class="container">
+            
+            <div class="slider">
+                <a onclick="prevSlide()"><i class="fa-solid fa-chevron-left"></i></a>
+                <a onclick="nextSlide()"><i class="fa-solid fa-chevron-right"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- STUDENTS SECTION -->
+
+    <div id="murid">
+        <div class="murid-container">
+
+        </div>
+        <div class="slider">
+            <!-- <h1 id="counter">0 - 6</h1> -->
+            <a onclick="prevMurid()"><i class="fa-solid fa-chevron-left"></i></a>
+            <a onclick="nextMurid()"><i class="fa-solid fa-chevron-right"></i></a>
+        </div>
+    </div>
+
+    <!-- GALLERY SECTION -->
+
+    <div id="gallery"></div>
+
+    <!-- FOOTER SECTION -->
+
+    <div id="medsos">
+        <div class="section">
+            <img src="image/logo.png" alt="Logo">
+            <h1>XEDUNIK XI-2</h1>
+        </div>
+        <div class="section">
+            <h1>SOSIAL MEDIA</h1>
+            <ul>
+                <li><i class="fa-brands fa-instagram"></i> Instagram : <a href="https://www.instagram.com/xedunik?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">@xedunik</a></li>
+                <li><i class="fa-solid fa-globe"></i> Website : <a href="index.html" target="_blank">Profile XEDUNIK</a></li>
+                <li><i class="fa-brands fa-google-drive"></i> G-Drive Dokumentasi : <a href="https://drive.google.com/drive/folders/1p0SsUUeFkeLpvrrYIZYhiYstDUND2VBY?usp=drive_link" target="_blank">DOKUMENTASI</a></li>
+            </ul>
+        </div>
+        <div class="section">
+            <h1>NAVIGASI</h1>
+            <ul>
+                <li><a href="#home">BERANDA</a></li>
+                <li><a href="#tentang">GURU-GURU</a></li>
+                <li><a href="#murid">MURID</a></li>
+                <li><a href="#gallery">DOKUMENTASI</a></li>
+                <li><a href="#medsos">  MEDIA SOSIAL</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="footer">
+        <p>Copyright &copy; 2024, Kelas XI-2 <b>XEDUNIK</b> 2024/2025</p>
+    </div>
+
+    <script type="module" src="script.js"></script>
+
+</body>
+</html>

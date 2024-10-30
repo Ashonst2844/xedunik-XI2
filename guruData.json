@@ -1,0 +1,68 @@
+{
+    "guru": [
+        {
+            "judul": "Wali Kelas",
+            "guru": "Bu Zahidah Zulfailah, S.Pd"
+        },
+        {
+            "judul": "Guru BK",
+            "guru": "Bu Indri Budi Utami, S.Pd"
+        },
+        {
+            "judul": "Guru Seni Budaya",
+            "guru": "Bu Ovy Diana Ovianti, S.Pd"
+        },
+        {
+            "judul": "Guru Matematika Wajib",
+            "guru": "Bu Rini Haryanti, S.Pd"
+        },
+        {
+            "judul": "Guru Informatika",
+            "guru": "Bu Eka Novita, S.Kom MM."
+        },
+        {
+            "judul": "Guru Agama Islam",
+            "guru": "Pak Abdul Hamid Qodarullah, S.Pd"
+        },
+        {
+            "judul": "Guru PJOK",
+            "guru": "Pak Ahmad Zainul Malik, S.Pd"
+        },
+        {
+            "judul": "Guru Agama Kristen",
+            "guru": "Pak Rabin Elimas Tapoin, S.Pd"
+        },
+        {
+            "judul": "Guru PPKN",
+            "guru": "Bu Mita Ghaasiyah, S.Pd"
+        },
+        {
+            "judul": "Guru Matematika TL",
+            "guru": "Bu Siti Asmaul Husna, S.Pd"
+        },
+        {
+            "judul": "Guru Kimia",
+            "guru": "Bu Diella Rodrina Silitonga, S.Pd"
+        },
+        {
+            "judul": "Guru Geografi",
+            "guru": "Pak Dedy Panca Nugraha, S.Pd"
+        },
+        {
+            "judul": "Guru Sejarah",
+            "guru": "Bu Dra. Tari Noviar Handayani"
+        },
+        {
+            "judul": "Guru PKWU",
+            "guru": "Bu Elfirati, S.Pd"
+        },
+        {
+            "judul": "Guru Bahasa Inggris",
+            "guru": "Bu Vivi Silviana, S.Pd"
+        },
+        {
+            "judul": "Guru Bahasa Indonesia",
+            "guru": "Bu Zahidah Zulfailah S.Pd"
+        }
+    ]
+}
