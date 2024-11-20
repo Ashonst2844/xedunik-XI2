@@ -2,67 +2,84 @@
     "guru": [
         {
             "judul": "Wali Kelas",
-            "guru": "Bu Zahidah Zulfailah, S.Pd"
+            "guru": "Bu Zahidah Zulfailah, S.Pd",
+            "foto": 1
         },
         {
             "judul": "Guru BK",
-            "guru": "Bu Indri Budi Utami, S.Pd"
+            "guru": "Bu Indri Budi Utami, S.Pd",
+            "foto": 2
         },
         {
             "judul": "Guru Seni Budaya",
-            "guru": "Bu Ovy Diana Ovianti, S.Pd"
+            "guru": "Bu Ovy Diana Ovianti, S.Pd",
+            "foto": 3
         },
         {
             "judul": "Guru Matematika Wajib",
-            "guru": "Bu Rini Haryanti, S.Pd"
+            "guru": "Bu Rini Haryanti, S.Pd",
+            "foto": 4
         },
         {
             "judul": "Guru Informatika",
-            "guru": "Bu Eka Novita, S.Kom MM."
+            "guru": "Bu Eka Novita, S.Kom MM.",
+            "foto": 5
         },
         {
             "judul": "Guru Agama Islam",
-            "guru": "Pak Abdul Hamid Qodarullah, S.Pd"
+            "guru": "Pak Abdul Hamid Qodarullah, S.Pd",
+            "foto": 6
         },
         {
             "judul": "Guru PJOK",
-            "guru": "Pak Ahmad Zainul Malik, S.Pd"
+            "guru": "Pak Ahmad Zainul Malik, S.Pd",
+            "foto": 7
         },
         {
             "judul": "Guru Agama Kristen",
-            "guru": "Pak Rabin Elimas Tapoin, S.Pd"
+            "guru": "Pak Rabin Elimas Tapoin, S.Pd",
+            "foto": 8
         },
         {
             "judul": "Guru PPKN",
-            "guru": "Bu Mita Ghaasiyah, S.Pd"
+            "guru": "Bu Mita Ghaasiyah, S.Pd",
+            "foto": 9
         },
         {
             "judul": "Guru Matematika TL",
-            "guru": "Bu Siti Asmaul Husna, S.Pd"
+            "guru": "Bu Siti Asmaul Husna, S.Pd",
+            "foto": 10
         },
         {
             "judul": "Guru Kimia",
-            "guru": "Bu Diella Rodrina Silitonga, S.Pd"
+            "guru": "Bu Diella Rodrina Silitonga, S.Pd",
+            "foto": 11
         },
         {
             "judul": "Guru Geografi",
             "guru": "Pak Dedy Panca Nugraha, S.Pd"
+            ,
+            "foto": 12
         },
         {
             "judul": "Guru Sejarah",
-            "guru": "Bu Dra. Tari Noviar Handayani"
+            "guru": "Bu Dra. Tari Noviar Handayani",
+            "foto": 13
         },
         {
             "judul": "Guru PKWU",
-            "guru": "Bu Elfirati, S.Pd"
+            "guru": "Bu Elfirati, S.Pd",
+            "foto": 14
         },
         {
             "judul": "Guru Bahasa Inggris",
-            "guru": "Bu Vivi Silviana, S.Pd"
+            "guru": "Bu Vivi Silviana, S.Pd",
+            "foto": 15
         },
         {
             "judul": "Guru Bahasa Indonesia",
-            "guru": "Bu Zahidah Zulfailah S.Pd"
+            "guru": "Bu Zahidah Zulfailah S.Pd",
+            "foto": 1
         }
     ]
 }
