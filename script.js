@@ -12,7 +12,7 @@ if (displayWidth >= 1440) {
     cardPerSlide = 2
     totalSlide = totalGuru/cardPerSlide
 } else if (displayWidth < 1440 && displayWidth >= 1024) {
-    cardPerPage = 8
+    cardPerPage = 6
     cardPerSlide = 2
 } else if (displayWidth < 1024 && displayWidth >= 463) {
     cardPerPage = 4
@@ -37,7 +37,10 @@ for (let i = 0; i < totalGuru; i += cardPerSlide) {
 
         createTeachers.setAttribute("class", "teachers");
         createTitle.innerHTML = guruData.guru[i + j].judul;
-        createImg.setAttribute("src", "image/teachers/profile.png");
+        createImg.setAttribute("src", "image/teachers/"+guruData.guru[i+j].foto+".jpeg")
+        createImg.onerror = function() {
+            this.src = "image/teachers/profile.png";
+        };
         createGuru.innerHTML = guruData.guru[i + j].guru;
 
         createTeachers.appendChild(createTitle);
@@ -95,7 +98,7 @@ for (let i = 0; i < muridData.murid.length; i++) {
     const createProfile = document.createElement("img")
     const createName = document.createElement("h1")
 
-    createProfile.setAttribute("src", "image/photos/"+(i+1)+".jpeg")
+    createProfile.setAttribute("src", "image/photos/"+(i+1)+".JPG")
     createProfile.onerror = function() {
         this.src = "image/photos/photo.jpeg";
     };
